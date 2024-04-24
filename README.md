@@ -1,8 +1,8 @@
-### 
+![logo](https://github.com/MuhammadHuzaifaShamsi/MuhammadHuzaifaShamsi/blob/main/LI_Banner.png) 
 <h1 align="center">Hey there 👋,</h1>
 
-<h1 align="center">I'm Muhammad Huzaifa</h1>
-<h3 align="center">A Full-Stack Web Developer from Pakistan</h3>
+<h1 align="left">I'm Muhammad Huzaifa</h1>
+<h3 align="left">A Full-Stack Web Developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
