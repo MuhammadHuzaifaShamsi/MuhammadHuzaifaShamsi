@@ -1,6 +1,6 @@
 ![logo](https://github.com/MuhammadHuzaifaShamsi/MuhammadHuzaifaShamsi/blob/main/LI_Banner.png) 
-<h1 align="center">Hey there 👋,</h1>
 
+<h1 align="left">Hi there 👋,</h1>
 <h1 align="left">I'm Muhammad Huzaifa</h1>
 <h3 align="left">A Full-Stack Web Developer from Pakistan</h3>
 
