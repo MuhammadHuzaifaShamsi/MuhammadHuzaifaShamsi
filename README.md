@@ -1,5 +1,5 @@
 ### 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.linkedin.com/in/muhammadhuzaifazafar/overlay/background-image/)](www.linkedin.com/muhammadhuzaifazafar)
 <h1 align="center">Hey there 👋,</h1>
 
 <h1 align="center">I'm Muhammad Huzaifa</h1>
