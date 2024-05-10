@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Tailwind CSS, Python, ReactJS, NextJS, and SQL**
 
-- 👨‍💻 All of my projects are available at [https://huzaifazafar.vercel.app/](https://huzaifazafar.vercel.app/)
+- 👨‍💻 My Portfolio Webpage -> [https://huzaifazafar.vercel.app/](https://huzaifazafar.vercel.app/)
 
 - 💬 Ask me about **Bootstrap, PHP, MySQL, and JS**
 
@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhuzaifashamsi&show_icons=true&locale=en&layout=compact" alt="muhammadhuzaifashamsi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhuzaifashamsi&show_icons=true&locale=en" alt="muhammadhuzaifashamsi" /></p>
+<p>&nbsp;<img align="center" style="opacity: 1;" src="https://github-readme-stats.vercel.app/api?username=muhammadhuzaifashamsi&show_icons=true&locale=en" alt="muhammadhuzaifashamsi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhuzaifashamsi&" alt="muhammadhuzaifashamsi" /></p>
