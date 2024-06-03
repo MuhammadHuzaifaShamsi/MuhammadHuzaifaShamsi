@@ -12,8 +12,6 @@
 
 - 👨‍💻 My Portfolio Webpage -> [https://huzaifazafar.vercel.app/](https://huzaifazafar.vercel.app/)
 
-- 💬 Ask me about **Bootstrap, PHP, MySQL, and JS**
-
 - 📫 How to reach me **huzaifashamsi819@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
