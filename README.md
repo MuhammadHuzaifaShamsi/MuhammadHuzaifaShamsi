@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhuzaifashamsi&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhuzaifashamsi" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, Tailwind CSS, Python, ReactJS, NextJS, and SQL**
+- I’m currently trying to find peace.. lol
 
-- 👨‍💻 My Portfolio Webpage -> [https://huzaifazafar.vercel.app/](https://huzaifazafar.vercel.app/)
+- 👨‍💻 My Portfolio Webpage (am updating it to Next JS.. stay tuned) -> [https://huzaifazafar.vercel.app/](https://huzaifazafar.vercel.app/)
 
 - 📫 How to reach me **huzaifashamsi819@gmail.com**
 
