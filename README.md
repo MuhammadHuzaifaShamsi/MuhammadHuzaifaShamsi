@@ -10,7 +10,7 @@
 
 - I’m currently trying to find peace.. lol
 
-- 👨‍💻 My Portfolio Webpage (am updating it to Next JS.. stay tuned) -> [https://huzaifazafar.vercel.app/](https://huzaifazafar.vercel.app/)
+- 👨‍💻 My Portfolio Webpage -> [https://huzaifazafar.vercel.app/](https://huzaifazafar.vercel.app/)
 
 - 📫 How to reach me **huzaifashamsi819@gmail.com**
 
