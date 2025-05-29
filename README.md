@@ -1,5 +1,5 @@
 # Hi:
-I'm a full-stack developer and a student pursuing a Bachelor's degree in Cyber Security (grad class of 2028).<br>
+I'm a full-stack developer and a student pursuing a <br>Bachelor's degree in Cyber Security (grad class of 2028).<br>
 
 
 ## Stalk me on:
